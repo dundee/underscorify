@@ -4,7 +4,7 @@
   "author": {
     "name": "atom-community"
   },
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Converts camelCase names to under_score names",
   "repository": {
     "type": "git",
