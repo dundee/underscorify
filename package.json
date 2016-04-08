@@ -1,0 +1,18 @@
+{
+  "name": "underscorify",
+  "main": "./lib/main",
+  "author": {
+    "name": "atom-community"
+  },
+  "version": "0.0.1",
+  "description": "Converts camelCase names to under_score names",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dundee/underscorify.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Dundee/underscorify"
+}
